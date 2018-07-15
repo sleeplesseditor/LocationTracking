@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolylineManager.m \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Target\ Support\ Files/react-native-maps/react-native-maps-prefix.pch \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolylineManager.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTViewManager.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTDefines.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTConvert.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTAnimationType.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTBorderStyle.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTLog.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTAssert.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTUtils.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTPointerEvents.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTTextDecorationLineType.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTEventDispatcher.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTBridge.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTBridgeDelegate.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTJavaScriptLoader.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTFrameUpdate.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTInvalidating.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/UIView+React.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTComponent.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTConvert+CoreLocation.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/node_modules/react-native-maps/lib/ios/AirMaps/RCTConvert+AirMap.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCallout.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/ios/Pods/Headers/Public/React/React/RCTView.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/node_modules/react-native-maps/lib/ios/AirMaps/AIRMap.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/node_modules/react-native-maps/lib/ios/AirMaps/Callout/SMCalloutView.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolyline.h \
+  /Users/joshbryson/Desktop/Coding/React-Native/locationTracking/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCoordinate.h
